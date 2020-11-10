@@ -8,7 +8,7 @@
 
 2. Abrimos los puertos SSH, HTTP y HTTPS:
 
-    ![](https://raw.githubusercontent.com/arr588/iaw-practica-02/main/img/2.png?token=ALTEBMQ2ANT5Y4ZUBYJU5WK7U3CBQ)
+    ![](https://github.com/arr588/iaw-practica-02/blob/main/img/2.png)
 
 3. Generamos una clave de acceso. En mi caso al haber creado otra máquina ya tengo una generada que voy a usar ya que es para la misma práctica por comodidad:
 
